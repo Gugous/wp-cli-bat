@@ -2,6 +2,9 @@
 cls
 echo ##################################################################
 echo Bem vindo a instalacao do Wordpress no ambiente de desenvolvimento
+echo.
+echo Instale o WP-CLI na sua máquina e adicione esse arquivo na pasta 
+echo onde deseja instalar a nova instancia do Wordpress
 echo ##################################################################
 echo.
 echo Informe do site que fica apos a / do localhost
@@ -62,5 +65,5 @@ echo Ativando o tema ASTRA...
 pause
 echo.
  
-echo Pronto. Finalizado! Nem doeu...
+echo Pronto. Sua nova instancia do Wordpress foi criada com sucesso! 
 pause > nul
